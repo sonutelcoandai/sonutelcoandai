@@ -1,10 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sonu Kumar
+# 👋 Hi, I'm Sonu Kumar --- Open to connect for any support or collobrations.
 
 ### Senior Engineer – Product Testing | Telecom • AI • Automation • DevOps
 
-*11+ years in 4G/5G/IMS/O-RAN protocol engineering, now building Agentic AI and CI/CD-driven quality platforms.*
+*11+ years in 4G/5G/IMS/O-RAN protocol engineering, **now building Agentic AI and CI/CD-driven quality platforms**.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-65890349/)
 [![Email](https://img.shields.io/badge/Email-Sonu.rohilla18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sonu.rohilla18@gmail.com)
