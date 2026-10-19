@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sonu Kumar --- Open to connect for any support or collobrations.
+# 👋 Hi, I'm Sonu Kumar --- Open to support or collobrations.
 
 ### Senior Engineer – Product Testing | Telecom • AI • Automation • DevOps
 
