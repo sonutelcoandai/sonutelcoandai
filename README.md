@@ -6,7 +6,7 @@
 
 *11+ years in 4G/5G/IMS/O-RAN protocol engineering, now building Agentic AI and CI/CD-driven quality platforms.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/sonu-kumar-rohilla-65890349)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sonu-kumar-65890349/)
 [![Email](https://img.shields.io/badge/Email-Sonu.rohilla18@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sonu.rohilla18@gmail.com)
 ![Location](https://img.shields.io/badge/📍_Gurugram,_India-555?style=for-the-badge)
 
@@ -103,14 +103,15 @@ Keysight & Anritsu framework automation • TM500/E500 scripting • API testing
 
 ## 🎓 Certifications & Learning
 
-- ✅ Agentic AI Engineering Certification: **Edureka**
+- ✅ **Agentic AI** Engineering Certification: **Edureka**
 - ✅ **AWS Certified Cloud Practitioner** course
 - ✅ LangChain: Agentic AI Engineering with **LangChain & LangGraph**
 - ✅ Ultimate **Kubernetes** Fast-Track: Beginner to Advanced
 - ✅ Ultimate **Docker** Fast-Track: Beginner to Advanced
-- ✅ **Jenkins** Beginner to Pro: CI/CD Pipeline Automation
+- ✅ **Jenkins** Beginner to Pro: **CI/CD Pipeline** Automation
 - ✅ Complete **n8n** and AI Automation
 - ✅ The Complete **Python** Bootcamp: Zero to Hero
+- ✅ Test Automation with **Playwright (Python) & Robot Framework**
 
 ---
 
@@ -120,6 +121,7 @@ Keysight & Anritsu framework automation • TM500/E500 scripting • API testing
 - MCP-based tool integrations for QA workflows
 - Kubernetes-based deployment of 5G core and AI workloads
 - Evaluating emerging AI tools for engineering acceleration
+- Automation testing rolls with python
 
 ---
 
